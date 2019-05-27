@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<testsuite name="Chrome 74.0.3729 (Windows 10.0.0)" package="" timestamp="2019-05-27T13:19:55" id="0" hostname="DESKTOP-FG0K38E" tests="5" errors="0" failures="0" time="0.099">
+<testsuite name="Chrome 74.0.3729 (Windows 10.0.0)" package="" timestamp="2019-05-27T15:05:41" id="0" hostname="DESKTOP-FG0K38E" tests="5" errors="0" failures="0" time="0.241">
   <properties>
     <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"/>
   </properties>
-  <testcase name="myApp.version module interpolate filter should replace VERSION" time="0.044" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.version module"/>
-  <testcase name="myApp.view2 module view2 controller should ...." time="0.015" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.view2 module"/>
-  <testcase name="myApp.view1 module view1 controller should ...." time="0.011" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.view1 module"/>
-  <testcase name="myApp.version module app-version directive should print current version" time="0.023" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.version module"/>
-  <testcase name="myApp.version module version service should return current version" time="0.006" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.version module"/>
+  <testcase name="myApp.view1 module view1 controller should ...." time="0.17" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.view1 module"/>
+  <testcase name="myApp.version module interpolate filter should replace VERSION" time="0.004" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.version module"/>
+  <testcase name="myApp.version module version service should return current version" time="0.021" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.version module"/>
+  <testcase name="myApp.version module app-version directive should print current version" time="0.039" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.version module"/>
+  <testcase name="myApp.view2 module view2 controller should ...." time="0.007" classname="Chrome_74_0_3729_(Windows_10_0_0).myApp.view2 module"/>
   <system-out>
     <![CDATA[
 ]]>

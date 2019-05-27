@@ -50,6 +50,8 @@
 								<argument>**/*</argument>
 								<argument>></argument>
 								<argument>${project.basedir}/target/karma-reports/checkstyle_report.xml</argument>
+								<argument>||</argument>
+								<argument>true</argument>
 							</arguments>
 							<workingDirectory>${project.basedir}</workingDirectory>
 						</configuration>
