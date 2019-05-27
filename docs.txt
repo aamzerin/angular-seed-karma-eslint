@@ -1,0 +1,14 @@
+1 - add karma plugins
+2 - add reporters to karma.conf.js
+3 - install globally karma-cli
+4 - run karma start => generates files under app/test
+
+5 - install globally eslint-cli
+6- install karma eslint plugin 
+	npm install eslint --save-dev
+	npm install karma-eslint --save-dev
+	npm install --save-dev eslint-plugin-angular
+	npm install --save-dev eslint-config-angular
+	
+	npm install --save-dev eslint-html-reporter	
+	npm install --save-dev eslint-junit
